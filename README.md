@@ -1,4 +1,4 @@
-Aspirante a desarrollador frontend buscando oportunidades para crecer en la industria. Apasionado por el diseño y la programación web. Comprometido con la calidad y la accesibilidad en el desarrollo de sitios web. En constante aprendizaje de nuevas tecnologías y tendencias. ¡Listo para colaborar en proyectos emocionantes!
+Aspirante a desarrollador frontend buscando oportunidades para crecer en la industria. Comprometido con la calidad y la accesibilidad en el desarrollo de sitios web. En constante aprendizaje de nuevas tecnologías y tendencias. ¡Listo para colaborar en proyectos emocionantes!
 
 <!--
 **EnzoHG1986/EnzoHG1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
